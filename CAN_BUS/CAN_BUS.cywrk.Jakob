@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="CAN_BUS\CAN_BUS\CAN_BUS.cydwr\Clocks">
+<ExpandedNodeIds>
+<v>CAN_BUS</v>
+<v>CAN_BUS\CAN_BUS</v>
+<v>CAN_BUS\CAN_BUS\TopDesign</v>
+<v>CAN_BUS\CAN_BUS\CAN_BUS.cydwr</v>
+<v>CAN_BUS\CAN_BUS\CAN_BUS.cydwr\Pins</v>
+<v>CAN_BUS\CAN_BUS\CAN_BUS.cydwr\Analog</v>
+<v>CAN_BUS\CAN_BUS\CAN_BUS.cydwr\DMA</v>
+<v>CAN_BUS\CAN_BUS\CAN_BUS.cydwr\Clocks</v>
+<v>CAN_BUS\CAN_BUS\CAN_BUS.cydwr\Interrupts</v>
+<v>CAN_BUS\CAN_BUS\CAN_BUS.cydwr\System</v>
+<v>CAN_BUS\CAN_BUS\CAN_BUS.cydwr\Directives</v>
+<v>CAN_BUS\CAN_BUS\CAN_BUS.cydwr\Flash Security</v>
+<v>CAN_BUS\CAN_BUS\Header Files</v>
+<v>CAN_BUS\CAN_BUS\Header Files\cyapicallbacks.h</v>
+<v>CAN_BUS\CAN_BUS\Source Files</v>
+<v>CAN_BUS\CAN_BUS\Source Files\main.c</v>
+<v>CAN_BUS\CAN_BUS\Generated_Source</v>
+<v>CAN_BUS\CAN_BUS\Generated_Source\PSoC4</v>
+<v>CAN_BUS\CAN_BUS\Generated_Source\PSoC4\CAN</v>
+<v>CAN_BUS\CAN_BUS\Generated_Source\PSoC4\CAN_isr</v>
+</ExpandedNodeIds>
+<VisibleNodeIds />
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>CAN_BUS</v>
+<v>CAN_BUS\CAN_BUS</v>
+<v>CAN_BUS\CAN_BUS\TopDesign</v>
+<v>CAN_BUS\CAN_BUS\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds />
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>CAN_BUS</v>
+<v>CAN_BUS\CAN_BUS</v>
+<v>CAN_BUS\CAN_BUS\CortexM0</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\Brake_SW.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\Brake_SW_PM.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\Brakes.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\Brakes_PM.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\CAN.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\CAN_HFCLK.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\CAN_INT.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\CAN_isr.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\CAN_PM.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\CAN_TX_RX_func.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\Clock.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\CyDMA.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\FrontLeftBlinker.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\FrontLeftBlinker_PM.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\FrontRightBlinker.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\FrontRightBlinker_PM.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\Hazard_BTN.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\Hazard_BTN_PM.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\HeadLights.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\HeadLights_BTN.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\HeadLights_BTN_PM.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\HeadLights_PM.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\LeftBlinker_BTN.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\LeftBlinker_BTN_PM.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\LeftBlinkers.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\LeftBlinkers_PM.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\RearCenterBrake.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\RearCenterBrake_PM.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\RearLeftBrake.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\RearLeftBrake_PM.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\RearRightBrake.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\RearRightBrake_PM.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\RightBlinker_BTN.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\RightBlinker_BTN_PM.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\RightBlinkers.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\RightBlinkers_PM.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\RX.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\RX_PM.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\TX.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\Listing Files\TX_PM.lst</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\CAN_BUS.elf</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\CAN_BUS.hex</v>
+<v>CAN_BUS\CAN_BUS\CortexM0\ARM_GCC_541\Debug\CAN_BUS.map</v>
+<v>CAN_BUS\CAN_BUS\CAN_BUS.gpdsc</v>
+<v>CAN_BUS\CAN_BUS\CAN_BUS.rpt</v>
+<v>CAN_BUS\CAN_BUS\CAN_BUS_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds />
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>CAN_BUS</v>
+<v>CAN_BUS\CAN_BUS</v>
+<v>CAN_BUS\CAN_BUS\PSoC 4 Architecture TRM</v>
+<v>CAN_BUS\CAN_BUS\PSoC 4200M Family Datasheet</v>
+<v>CAN_BUS\CAN_BUS\System Reference Guides</v>
+<v>CAN_BUS\CAN_BUS\System Reference Guides\cy_boot_v6_10</v>
+<v>CAN_BUS\CAN_BUS\System Reference Guides\cy_dmac_v1_10</v>
+<v>CAN_BUS\CAN_BUS\System Reference Guides\cy_lfclk_v1_20</v>
+<v>CAN_BUS\CAN_BUS\and_v1_0</v>
+<v>CAN_BUS\CAN_BUS\and_v1_0\and_v1_0.pdf</v>
+<v>CAN_BUS\CAN_BUS\CAN_v3_0.pdf</v>
+<v>CAN_BUS\CAN_BUS\cy_clock_v2_20.pdf</v>
+<v>CAN_BUS\CAN_BUS\cy_pins_v2_20</v>
+<v>CAN_BUS\CAN_BUS\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>CAN_BUS\CAN_BUS\CyControlReg_v1_80</v>
+<v>CAN_BUS\CAN_BUS\CyControlReg_v1_80\CyControlReg_v1_80.pdf</v>
+<v>CAN_BUS\CAN_BUS\FreqDiv_v1_0.pdf</v>
+<v>CAN_BUS\CAN_BUS\not_v1_0</v>
+<v>CAN_BUS\CAN_BUS\not_v1_0\not_v1_0.pdf</v>
+<v>CAN_BUS\CAN_BUS\or_v1_0</v>
+<v>CAN_BUS\CAN_BUS\or_v1_0\or_v1_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds />
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\CAN_BUS.cydsn\main.c" />
+<name v=".\CAN_BUS.cydsn\Generated_Source\PSoC4\CAN_TX_RX_func.c" />
+<name v=".\CAN_BUS.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\CAN_BUS.cydsn\CAN_BUS.cydwr" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="969, 477" SelectedTabbedMdiWindow="843ca187-2ef9-48ac-9490-80ee069bba00"><DocumentWindow Key="C:\Users\Jakob\Documents\School Work\2 - SIUE\2022-23 - Sophomore Year\Spring Semester\ECE 381\Final Lab\CAN BUS\CAN_BUS\CAN_BUS.cydsn\main.c" Guid="d701e16b-0d89-4583-82d4-f21efc5c175a" /><DocumentWindow Key="C:\Users\Jakob\Documents\School Work\2 - SIUE\2022-23 - Sophomore Year\Spring Semester\ECE 381\Final Lab\CAN BUS\CAN_BUS\CAN_BUS.cydsn\Generated_Source\PSoC4\CAN_TX_RX_func.c" Guid="87755947-4eae-476b-a603-5398d1fe173b" /><DocumentWindow Key="C:\Users\Jakob\Documents\School Work\2 - SIUE\2022-23 - Sophomore Year\Spring Semester\ECE 381\Final Lab\CAN BUS\CAN_BUS\CAN_BUS.cydsn\TopDesign\TopDesign.cysch" Guid="843ca187-2ef9-48ac-9490-80ee069bba00" /><DocumentWindow Key="C:\Users\Jakob\Documents\School Work\2 - SIUE\2022-23 - Sophomore Year\Spring Semester\ECE 381\Final Lab\CAN BUS\CAN_BUS\CAN_BUS.cydsn\CAN_BUS.cydwr" Guid="bd0fa652-86ff-457b-8d47-9ece75e7eb57" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="59d79fd5-fff9-45fd-b049-9b63e70df589" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

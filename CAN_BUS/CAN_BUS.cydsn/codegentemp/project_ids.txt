@@ -1,0 +1,6 @@
+C:\Users\Jakob\Documents\School Work\2 - SIUE\2022-23 - Sophomore Year\Spring Semester\ECE 381\Final Lab\CAN BUS\CAN_BUS\CAN_BUS.cydsn\CAN_BUS.cyprj|29b876fb-f822-4a2c-85c6-5f883974cf9a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|60249f48-886f-431d-8b78-3ab23c879943
+C:\Users\Jakob\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|001e1885-b438-4cb8-a9ec-ed91b6bda7b8
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|40aaf31a-1d43-4eba-8766-97324225a59b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|94a24f1a-a1bc-470d-a405-e7c63024b368
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|1a04db23-07db-4085-8ae0-901faae2e674
